@@ -26,15 +26,15 @@ This is a yearly run CTF competition initially for students of Trinity College D
 - [Panic](forensics/panic/README.md)
 - [Stegosaurus](forensics/stegosaurus/README.md)
 
-### Networking
+### Networking challenges
 - [Smell](networking/smell/README.md)
 - [Smell 2](networking/smell_2/README.md)
 - [Smell 3](networking/smell_3/README.md)
 
-### Pot Luck
+### Pot Luck challenges
 - [Smell 3](pot_luck/patrick/README.md)
 
-### Recon
+### Recon challenges
 - [CopyCats](recon/copycats/README.md)
 - [Domain Names Suck](recon/domain_names_suck/README.md)
 - [Drugs R B4d](recon/drugs_r_b4d/README.md)
@@ -43,15 +43,15 @@ This is a yearly run CTF competition initially for students of Trinity College D
 - [Looters](recon/looters/README.md)
 - [The front page of the internet](recon/the_front_page_of_the_internet/README.md)
 
-### Reversing
+### Reversing challenges
 - [Locked Out](reversing/locked_out/README.md)
 
-### Trivia
+### Trivia challenges
 - [Not Bots Again](trivia/not_bots_again/README.md)
 - [Unknown](trivia/unknown/README.md)
 - [Who's the king?](trivia/whos_the_king/README.md)
 
-### Web
+### Web challenges
 - [Ancient](web/ancient/README.md)
 - [Badmin](web/badmin/README.md)
 - [Badmin 2](web/badmin_2/README.md)
