@@ -20,6 +20,12 @@ This is a yearly run CTF competition initially for students of Trinity College D
 ### Exploitation challenges
 - [Locked Out 2](exploitation/locked_out_2/README.md)
 
+### Forensics challenges
+- [BSOD](forensics/bsod/README.md)
+- [Out Of Office](forensics/out_of_office/README.md)
+- [Panic](forensics/panic/README.md)
+- [Stegosaurus](forensics/stegosaurus/README.md)
+
 ### Networking
 - [Smell](networking/smell/README.md)
 - [Smell 2](networking/smell_2/README.md)
