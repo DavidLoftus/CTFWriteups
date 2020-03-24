@@ -7,3 +7,5 @@
 > There was a new sample firmware on the CD, although the upgrade tool was the
 > same. You can find the debugger at `192.168.148.2:23` and the router (when
 > booted) at `192.168.148.1`.
+
+I didn't actually get this one unfortunately, ):

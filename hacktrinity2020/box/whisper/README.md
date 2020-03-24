@@ -4,3 +4,5 @@
 > stopped pretty quickly...
 > 
 > You can SSH into the server with `ssh whisper@192.168.145.1`
+
+Nobody got this problem, is it the hardest problem of the CTF?!?! Well not really, its just that it was released during the last day with less than 12 hours to complete.
