@@ -50,6 +50,7 @@ Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Star
 There we go, the classic **mspaint.exe**. We can dump the memory using the memdump command: `volatility -f dump.bin --profile=Win7SP1x86_23418 memdump -n mspaint --dump-dir .` which writes the process to 744.dmp. 
 Now we can't simply binwalk for the image, because it is loaded into memory, thus there won't be a file header to search for.
 Instead we will open it up in GIMP which accepts raw binary .data files. We rename 744.dmp to mspaint.data and open the file in gimp. Then we get a prompt that looks like this:
+
 ![GIMP Raw Data Prompt](gimp_raw.png)
 
 Now there was no simple way to search for the image, just scrubbing through offset until I found a pattern that might be an image. I needed to use BMP style since thats how mspaint stores the image in memory. Eventually I found the image, which was upside down for bmp reasons:
