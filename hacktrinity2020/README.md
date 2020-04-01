@@ -21,8 +21,8 @@ This is a yearly run CTF competition initially for students of Trinity College D
 - \[WIP\] [Locked Out 2](exploitation/locked_out_2/README.md)
 
 ### Forensics challenges
-- \[WIP\] [BSOD](forensics/bsod/README.md)
-- \[WIP\] [Out Of Office](forensics/out_of_office/README.md)
+- [BSOD](forensics/bsod/README.md)
+- [Out Of Office](forensics/out_of_office/README.md)
 - \[WIP\] [Panic](forensics/panic/README.md)
 - \[WIP\] [Stegosaurus](forensics/stegosaurus/README.md)
 
