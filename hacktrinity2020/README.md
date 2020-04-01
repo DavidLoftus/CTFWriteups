@@ -23,7 +23,7 @@ This is a yearly run CTF competition initially for students of Trinity College D
 ### Forensics challenges
 - [BSOD](forensics/bsod/README.md)
 - [Out Of Office](forensics/out_of_office/README.md)
-- \[WIP\] [Panic](forensics/panic/README.md)
+- [Panic](forensics/panic/README.md)
 - \[WIP\] [Stegosaurus](forensics/stegosaurus/README.md)
 
 ### Networking challenges
